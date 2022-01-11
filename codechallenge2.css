@@ -1,0 +1,74 @@
+body {
+ background-image: url("background.jpg");
+ background-size: cover;
+ background-color: black;
+}
+
+#veicles {
+  font-size: 17px;
+}
+
+p{
+  color:white;
+  font-family: "verdana", sans-serif, "Helvetica";
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.logoslogan{
+  background-color:rgba(0, 0, 0, 0.4);
+  width: 650px;
+  height:500px;
+  border-radius: 15px;
+  padding: 50px;
+  margin: auto;
+}
+
+.buttons{
+border:15px solid limegreen;
+background-color: limegreen;
+text-align: center;
+}
+
+/* ------------ */
+
+header{
+text-align:center;
+}
+
+.logo{
+  width:170px
+}
+
+.logotext{
+  font-size: 30px;
+line-height: 1px;
+color: limegreen;
+font-family: "verdana", "helvetica", "arial";
+}
+
+/* ------------ */
+
+
+/* Lines that show battery life  */
+.oneicon {
+  background: yellow;
+  width: 60px;
+  height:10px;
+  border-radius: 5%;
+}
+
+.twoicon {
+  background:limegreen;
+  width: 100px;
+  height:10px;
+  border-radius: 5%;
+}
+
+.threeicon {
+  background: red;
+  width: 40px;
+  height:10px;
+  border-radius: 5%;
+}
+/* --------- */
